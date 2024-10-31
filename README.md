@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Albina</h1>
 <h3 align="center"> AI & ML engineer</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@albinakrasykova](https://medium.com/@albinakrasykova)
+- 📝 Read my articles on [https://medium.com/@albinakrasykova](https://medium.com/@albinakrasykova)
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning** 
 
 - 📫 How to reach me **albinakrasykova@outlook.com**
 
