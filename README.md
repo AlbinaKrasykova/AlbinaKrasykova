@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Albina</h1>
-<h3 align="center">A passionate AI & ML engineer from NYC</h3>
+<h3 align="center"> AI & ML engineer </h3>
 
 - 📝 I regularly write articles on [https://medium.com/@albinakrasykova](https://medium.com/@albinakrasykova)
 
