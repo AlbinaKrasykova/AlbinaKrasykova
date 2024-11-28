@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **albinakrasykova@outlook.com**
 
-- ⚡ Fun fact **I am a competitive swimmer** 🌊
+- ⚡ Fun fact **I love whale sharks 𓆝 & I am a competitive swimmer** 🌊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
